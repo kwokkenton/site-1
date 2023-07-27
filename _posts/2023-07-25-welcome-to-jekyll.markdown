@@ -7,7 +7,7 @@ categories: jekyll update
 
 # Optical Projection Tomography: CT scans but for mice?
 
-![alt text](./files/opt.png "Title")
+![alt text](/files/opt.png "Title")
 
 Developmental biologists are people who are interested in studying how organisms grow. They may study embryos, larvae and even whole organisms. As you may well know, scientists cannot directly perform these experiments on humans due to certain ethical reasons (imagine the uproar!). This is one reason why developmental biologists result to studying ‘model organisms’ such as mice and their embryos, that are structurally similar to humans. 
 

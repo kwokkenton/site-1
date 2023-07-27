@@ -17,8 +17,8 @@ title: Kenton
 email: me@kentonk.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! I am an experimental imaging physicist and data scientist. Nice to meet you!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "kwokkenton.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "site-1/" # the subpath of your site, e.g. /blog
+url: "https://kwokkenton.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  kwokkenton
 
