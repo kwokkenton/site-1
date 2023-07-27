@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text](/files/neon.jpg "Title")
+![alt text](./files/neon.jpg "Title")
 
 Hiya, my name is Kenton! I am an experimental imaging physicist and data scientist. Nice to meet you!
 
