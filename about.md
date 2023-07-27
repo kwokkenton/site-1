@@ -1,18 +1,15 @@
 ---
-layout: page
+layout: single
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![alt text](/files/neon.jpg "Title")
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hiya, my name is Kenton! I am an experimental imaging physicist and data scientist. Nice to meet you!
 
 
-[jekyll-organization]: https://github.com/jekyll
+This is my website where I post about some of my previous work, projects and also some bits of research I've done on specific topics that might be useful!
+
+# A bit about me
+I graduated with an MSci in Physics from Imperial College London, UK, where my Master's project was in biophotonics i.e. applying optics to biological samples. 
