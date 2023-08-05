@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello! I am an experimental imaging physicist and data scientist. Nice to meet you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.kentonk.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+avatar: "/files/head.jpg"
 github_username:  kwokkenton
 
 # Build settings
@@ -41,3 +41,33 @@ repository: kwokkenton/site-1
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+author:
+  name             : *name
+  avatar           : "/files/head.jpg"
+  bio              : "Scientist, traveller and photographer."
+  location         : "London, UK"
+  email            : "me@kentonk.com"
+  uri              : "https://www.kentonk.com"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : 
+  foursquare       :
+  github           : "kwokkenton"
+  google_plus      :
+  keybase          :
+  instagram        : "kurnturn"
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : *twitter
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :

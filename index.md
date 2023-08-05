@@ -1,9 +1,22 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
-title: Homepage
+layout: single
+title: Home
+classes: wide
+author_profile: true
 ---
 
-This is my homepage
+![alt text](/files/neon.jpg "Title")
+
+Hiya, my name is Kenton! I am an experimental imaging physicist and data scientist. Nice to meet you!
+
+
+This is my website where I post about some of my previous work, projects and also some bits of research I've done on specific topics that might be useful!
+
+# A bit about me
+I graduated with an MSci in Physics from Imperial College London. My academic interests are in all flavours of biophotonics, computational imaging and machine learning.
+
+Check out my skills and experiences in my CV.
+
+
+[CV](https://drive.google.com/file/d/1nw0Bx9TCicfTUuiIPozeeRx5rqey9Ola/preview){: .btn .btn--success target="_blank"}
+

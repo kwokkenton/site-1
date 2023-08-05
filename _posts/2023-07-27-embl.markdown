@@ -1,0 +1,108 @@
+---
+layout: single
+title:  "A physicist's role in biology?"
+date:   2023-07-27 16:00:55 +0100
+read_time: true
+categories: physics biology
+---
+# EMBL Lautenschläger Summer School 2023-- Thoughts
+
+In June of this year, I was lucky enough to be selected to join a summer school hosted by the [European Molecular Biology Laboratory (EMBL)](https://www.embl.org/), specifically the main campus in Heidelberg, Germany. The theme of this summer school was doing interdisciplinary research, specifically looking from a physical or engineering lens into biology. What does a physicist have to do with biology, you might ask? Then let me explain!
+
+![](/files/embl/class.jpeg " ")
+*One of the lectures we attended.*
+
+## What are biologists interested in?
+Biologists are people who study life: from cells to organisms and from fungi to plants to animals. A select sub-disciplines of biology are listed below
+* Developmental biology: how can cells grow into tissues and organs and entire organisms with structure?
+* Genome biology: how does genetic material code for proteins, even disease?
+* Cell biology: what processes allow cells to function?
+* Structural biology: what are the 3D structures of biomolecules?
+* Bioinformatics: how can computer technology be used to understand biological information and sequences?
+
+sorry in advance to the biologists if the definitions lack a bit of nuance!
+
+![](/files/embl/animal.jpeg " ")
+*Two cute Axolotls, amphibians that demonstrate self regeneration, being studied at the EMBL facility. Unfortunately, they are a critically endangered species.*
+
+## How can physical scientists help?
+Physicists, engineers and mathematicians help them in multiple ways
+1. Using a range of methods to visualise change
+2. Quantifying similarities and differences 
+3. Modelling and predicting behaviour with mathematics
+4. Developing and integrating new methods to unlock new parts of biology
+
+Measurement across different scales is key in any part of experimental physics. To be able to confidently make a scientific conclusion, you will need to reliably 'see' change. For example, the optical microscope measures the changes in electromagnetic radiation as it passes through samples. Physicists are then interested in pushing the limits of these methods: namely how we can 'see' with better clarity, and with higher specificity. Plenty of other methods exist such as transmission electron microscopy, cryo-electron microscopy and a bunch of superresolution optical microscopy techniques.
+
+After these images have been taken, they can be analysed using computer vision techniques such as image segmentation and tracking. Biologists may be interested in seeing how organisms grow over time or whether a certain mutation changes the structure or behaviour. Quantification of size or shape will allow people to draw precise biological conclusions. 
+
+If sequencing is possible, a wealth of bioinformatics algorithms exist to explore possible correlations in the genotype and phenotype. 
+
+Another aspect of the physical sciences is making mathematical models. The same differential equations, models of complexity or geometry can be applied to describe biological phenomena. Making models are a good way of testing hypotheses, such as whether a specific conservation law is followed in a process of growth. Once these models have been formulated, they are usually compared to experimental data to look at whether any tweaks need to be proposed. At a smaller scale, the field of biophysics looks at molecular processes from a first-principles approach, as in building up behaviour from basic forces and interactions. This contrasts with a top-down approach that seeks to use mathematics to describe observables. 
+
+
+## Takeaways from the event
+
+Our summer school was set over 2 weeks where we had 20 lectures spread out during the mornings and the afternoons dedicated to practicals. For the second week we also went into more depth with a focus practical. I'd just like to share some takeaways from the whole event
+
+### 1. Doing end-to-end biology is cool and illuminating!
+
+For the core practical we assembled an epifluorescent microscope (LED excitation, excitation and emission filters, objective, ocular lens/ eyepiece), prepared a sample of *Nematostella* (type of sea anemone), automated the acquisition and then performed overnight imaging. We later went into the computer lab to segment the Nematostella to track its dynamics by coding or with [point and click tools](https://www.ilastik.org/).
+
+In the focus practical we used a modular light sheet microscope called Flamingo from [Jan Huisken’s lab](https://huiskenlab.com/) to perform imaging of a zebrafish embryo. We prepared and mounted the sample into a small tube and used the accompanying software to take z-stacks of the growing zebrafish, including movies of the beating heart. We subsequently analysed the heart rhythm in Python. This type of live imaging would be difficult to perform without light sheet microscopy.
+
+If these activites were done from scratch, they would probably take several months, even years to accomplish. Rapidly going through the entire pipeline allowed us to see what may be 'pain points' to the entire process.
+
+* It’s necessary to have the full method optimised before you can optimise the process. This includes having a method (physical and computational) that suits the biological question being answered. This may require loads of iterations to refine. 
+* Simply having the 'best' microscope or the 'best' algorithms might not be the most useful thing to do in biology if for example alignment or calibration takes ages.
+* A good example: developing a good acquisition procedure to take images with high contrast is always better than analysing poor images.
+  
+Technologies to measure/ look at organisms enable studying of biological questions. But new biological questions also need to be proposed to push physicists and engineers in the way that they need to go. 
+
+> So it is important for scientists to “dream” and not to be confined by what they have been previously taught.
+
+
+### 2. Understanding the languages of different fields
+Sometimes the difficulty in working in interdisciplinary teams lies in being able to communicate your idea accurately. People trained in different domains will probably have different skills and are suited to varying parts of the scientific method.
+
+- Biologists, in an experiment, may want to learn about cell signalling, how embryos develop complexity, how genes regulate development, how structures are organised, how organs and embryos form. Genetic methods may be used e.g. testing by silencing genes. 
+- Imaging physicists care about things like resolution, acquisition speed, using the correct modalities to suit spatial and timescales. Also how processes can be quantified.
+- Engineers care about tolerances, robustness and also the impact of vibrations on the setup
+- Computer scientists may be interested in framing an aspect the biological problem in a general case and solving that case. They care about algorithmic complexity and whether there is an optimal way to do something. 
+
+### 3. Being a bit uncomfortable
+In interdisciplinary research talks, most people only understand 50% of the talk. Sometimes the speakers of the talk may only understand the principles of the physical/ biological techniques, but that may already be sufficient to disseminate the idea and push the filed forwards!
+- I feel like this environment is much more collaborative than perhaps most fields of research (in physics at least). In this you’re considered as the expert of your field and your strength is in both breadth in knowledge and depth in a particular field. 
+- The strength is in the team and a team effort, rather than one revolutionary idea by an individual.
+- Some physical or computational scientists may find it hard if they feel like a supporting act for the biology if they don't embrace the interdisciplinarity. 
+- Those who can, and are willing, do both the physical and the biological aspect are as rare as ‘unicorns.’ 
+
+## How is doing research and living Heidelberg?
+Though I just stayed in Germany for this event for 2 weeks, this is what I observed
+
+- Apart from how all shops, except restaurants, close on Sunday, the atmosphere felt similar to parts of the UK 
+- Though I observe the cultural sensitivity, diversity and wellbeing is more obvious in the UK. 
+- Heidelberg was really international, English usually could get you everywhere or most places
+- It felt like Oxford or Cambridge, quiet, sporty and studenty/ energetic but on occasions tranquil and quiet.
+
+In the town of Heidelberg, I'd recommend visiting the castle, walking along the river Neckar and crossing the Old bridge. I'd also recommend doing some of the hikes if the day is nice!
+
+![](/files/embl/heidelberg.jpeg " ")
+*View of Heidelberg castle and the city below.*
+
+## Our programme— the fun stuff
+
+![](/files/embl/group_pic.jpg " ")
+*A group picture of us!*
+
+- Among our 18 participants, there were 15 unique nationalities and so the programme felt really international. I learnt a lot about different cultures
+- The environment was really social, we had walks after the programme in the city, visited the Heidelberg castle on the weekends and did several hikes and a barbecue.
+- On lab day, an annual celebration of science at EMBL, there were fun poster presentations and games intended for researchers to relax. There was live music and also a DJ event. How hard must it have been to cater to the international music taste!
+
+## If you're interested... go check it out!
+The link to the 2023 programme is available [here](https://www.embl.org/about/info/undergraduates/events/2023-visualising-life/). I would highly encourage you to apply if you're interested in interdisciplinary research! 
+
+![](/files/embl/lab_day.jpeg " ")
+*Lab day celebrations (a live band).*
+
+*My attendance was supported by Imperial College London's Faculty of Natural Science's* [*Dean's Fund*](https://www.imperial.ac.uk/natural-sciences/education-and-teaching/fons-deans-fund/). 
