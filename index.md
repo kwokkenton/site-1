@@ -15,7 +15,7 @@ This is my website where I post about some of my previous work, projects and als
 # A bit about me
 I graduated with an MSci in Physics from Imperial College London. My academic interests are in all flavours of biophotonics, computational imaging and machine learning.
 
-Check out my skills and experiences in my CV.
+My CV is also available for a summary of my skills and experiences.
 
 
 [CV](https://drive.google.com/file/d/1nw0Bx9TCicfTUuiIPozeeRx5rqey9Ola/preview){: .btn .btn--success target="_blank"}

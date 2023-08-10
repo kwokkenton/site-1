@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "A layperson's introduction to my Master's Project"
+title:  "Layperson summary- Optical Projection Tomography"
 date:   2023-07-26 16:00:55 +0100
 categories: physics 
 ---
