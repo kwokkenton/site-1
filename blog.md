@@ -7,6 +7,6 @@ title: Blog
 permalink: /blog/
 ---
 
-![alt text](/files/neon.jpg "Title")
+![hi](/files/maps.jpg "hi")
 
-This is my homepage
+Welcome to my blog :)

@@ -2,6 +2,7 @@
 layout: single
 title:  "Layperson summary- Optical Projection Tomography"
 date:   2023-07-26 16:00:55 +0100
+read_time: true
 categories: physics 
 ---
 
@@ -20,6 +21,7 @@ We constructed an OPT setup (think screws and Allen keys), wrote the image proce
 As physicists, we wanted to determine the limits of imaging performance. One such measure is image resolution, which is the minimum distance two signals can be separated for them to still be distinguished. The resolution is limited by diffraction from the aperture in the lens, which is best at large aperture sizes. As we needed the whole sample to be in focus when imaged, we also wanted to have a large depth of field, which is favoured with small aperture sizes. This unfortunately is the trade-off in OPT! We took images of known physical targets (a sharp knife edge and a fluorescent sample bead sample) to quantify this effect so OPT users can know the optimum aperture size for their sample. 
 
 ![](/files/opt/mouse.gif " ")
+
 *3D render of the mouse embryo we imaged.*
 
 In addition, we also prototyped a new system that uses an LED matrix as illumination. We discovered that by illuminating successive halves of the LED and taking images over a complete rotation, we can reconstruct the entire 3D refractive index of the sample! This is pretty exciting as existing methods that do this are complicated and expensive. It can be applied to label-free imaging of zebrafish, which developmental biologists know and love. We enjoyed this project as it’s a manifestation of how physical principles, experimentation and computation all have a role in understanding complex biology— one embryo at a time.

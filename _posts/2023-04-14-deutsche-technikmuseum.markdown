@@ -33,7 +33,7 @@ The museum also hosted a collection of items illustrating the history of photogr
 
 They also had an exhibit on holography (invented by Gabor, a Hungarian-British physicist who also worked at Imperial). A hologram, different from a photograph, is a 3D recording of a wavefront, as shown in the image below. You should be able to see parallax in the image!
 
-![](https://drive.google.com/uc?export=view&id=18aqOSY_mrX5gs2AgnYB6Wun6J8flq-Vx " ")
+<iframe src="https://drive.google.com/file/d/1Dqvh0Dg4E_9UwbXMlIEoX_JWZULvhxBW/preview" width="540" height="860" allow="autoplay"></iframe>
 *Movie showing the parallax effect, when viewed at different angles, of a hologram that was fabricated by lasers.*
 
 ## Printing and Typography
