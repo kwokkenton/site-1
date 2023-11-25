@@ -2,8 +2,8 @@
 title: "MSci work- volumetric bioimaging using OPT"
 excerpt: "Doing benchtop optics, programming and analysis for biology!"
 header:
-  image: https://lh3.googleusercontent.com/drive-viewer/AITFw-zNjoOfwZQARZvOxdmZOsptqbyYDFP3yT8ENX1AicbQSqMCyoTCKVO7gH93v2oxPBZP4TZtmgbHFtbSFErUnfAMUY5sSg=s1600
-  teaser: https://lh3.googleusercontent.com/drive-viewer/AITFw-zNjoOfwZQARZvOxdmZOsptqbyYDFP3yT8ENX1AicbQSqMCyoTCKVO7gH93v2oxPBZP4TZtmgbHFtbSFErUnfAMUY5sSg=s1600
+  image: https://lh3.googleusercontent.com/drive-viewer/AK7aPaC_dtdH8uYYgoscbtjSmM9YlOgeYvMv0X_phEQMKTHDnl0xVdIPnzuJDsLX2AtSHvJ-JKv7-szH4A02eJZCxNmW3GczaA=s1600
+  teaser: https://lh3.googleusercontent.com/drive-viewer/AK7aPaC_dtdH8uYYgoscbtjSmM9YlOgeYvMv0X_phEQMKTHDnl0xVdIPnzuJDsLX2AtSHvJ-JKv7-szH4A02eJZCxNmW3GczaA=s1600
 sidebar:
   - title: "Role"
     image: https://pxl-imperialacuk.terminalfour.net/fit-in/448x293/prod01/channel_2/media/migration/staff/Blue-on-white--tojpeg_1495792235526_x4.jpg
