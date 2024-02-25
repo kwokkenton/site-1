@@ -1,0 +1,52 @@
+---
+layout: single
+title:  "Nobel Prize Museum"
+date:   2024-02-25 12:00:00 +0000
+read_time: true
+categories: museum
+---
+
+## A Scientist's view of the Nobel Museum, Stockholm
+
+The [Nobel Prize](https://www.nobelprize.org/) is currently the de-facto Oscars of the academic world, celebrating academic superstars. [Alfred Nobel](https://en.wikipedia.org/wiki/Alfred_Nobel) was the Swedish dynamite inventor and industrialist who made the world-changing decision of donating his fortunes to the world. The Prize is split into (Physical sciences, Chemistry, Medicine, Literary works, Peace) for those who have "contributed to the greatest benefit to humankind." The winner(s) of the prize (which can be split into at most 3 chunks), gets around £830k, a diploma, and the famous metal disc like that shown below.
+
+![Nobel prize disc](/files/nobel/nobel_head.jpeg)
+
+*Not a real Nobel prize but a disc ornament embedded into the ground.*
+
+It was last summer when my friend and I visited the Nobel Prize museum in Stockholm, Sweden. A space in [Gamla Stan](https://en.wikipedia.org/wiki/Gamla_stan) in the city centre, it is dedicated to the prize and the work of the laureates. It opened in 2001 and has been available for the public to visit and explore since.
+
+I was happy that it was packed, as it's always great that there is sustained interest in either the prize itself, the life of the laureates, or the fantastic scientific/ humanities work that was conducted which led to the award. After all, the Prize is one of the few things in science that is a household name and is synonymous with the pinnacle of human knowledge.
+
+![Exterior of the Nobel Prize Museum](/files/nobel/museum.jpeg)
+
+*Exterior of the museum, which was the old [Stock Exchange Building](https://en.wikipedia.org/wiki/Stockholm_Stock_Exchange_Building), in a colourful Swedish Gustavian style*
+
+As a scientist, it's quite cool seeing your domain of science being showcased to the general public, in a museum as sleek as this. *(With my lack of knowledge in literature and economics, I'm afraid my discussion will dwell on science.)* The museum was comprehensive-- there were items in showcases belonging to select laureates, abundant historical facts about the prize and to complement that inspirational quotes about the philosophy of science. Despite this and the fact that I usually find science-based museums quite engaging, this one in particular made me feel a bit detached.
+
+![Inspirational quote from Karl Popper on the wall](/files/nobel/popper_quote.jpeg)
+*Inspirational quote from Karl Popper on the wall*
+
+It struck me that there wasn't much flow to the museum. Yes there was the central section having digital information touchscreens, a side kids area with a section dedicated to Alfred Nobel, and a room at the back that showcased the work of individual laureates, but there wasn't much cohesion linking the parts together. (In hindsight-- it might also be a mistake by not getting the free tour.)
+
+Arguably, the museum curators have a gargantuan task to do— to shine a good light on the 100 or so odd year history of a prize that spans a range of disparate fields and given to nearing a 1000 laureates. The frontal part of the museum, arguably the focal point of the entire thing, felt overwhelmingly like a list of facts. It is good that the accolades of each winner are sung loud and clear. What I would have liked to see more are [trends](https://www.chemistryworld.com/nobel-prize/the-data-behind-the-nobel-prizes/4010453.article) of the laureates, what has changed throughout the years, in a more interactive, maybe physical medium instead of on a screen or a wall.
+
+The open back section that has mock desks of Nobel laureates that allows you to imagine what their workspace must be like. Seeing desks, lab benches and work equipment of Nobel laureates made me feel like I was traversing through space and time where I could witness their eureka moments.
+
+On the flipside, this setup made me feel rather distanced to the winners. It seemed like we were looking at mythological heroes, immortalised by their scientific achievements. This form of presentation, which may reflect the embedded biases of the Nobel prize itself, pushes the narrative that scientific progress is advanced by [individual genius](https://www.theguardian.com/commentisfree/2017/sep/30/we-hail-individual-geniuses-success-in-science-collaboration-nobel-prize).
+
+![Einstein's mock seat in the Nobel Prize museum](/files/nobel/einstein.jpeg)
+*Seat of Albert Einstein*
+
+Some may call the decision (or rather legacy) of the Nobel prize only featuring up to 3 people ["absurd" or "anachronistic"](https://www.theatlantic.com/science/archive/2017/10/the-absurdity-of-the-nobel-prizes-in-science/541863/). As written in [Time Magazine](https://time.com/6225572/nobel-prizes-problem), “by failure adequately to acknowledge collaborative and parallel work" the Nobel prize gives "a misleading impression of how science is done. And these exclusions distort the public perception of what sciences are important.” I would agree that modern science is in fact ["one of the teamiest of team sports"](https://www.statnews.com/2016/10/07/nobel-prize-science/), as all theories and experiments must build on knowledge generated by researchers who have come before and ideas shared between peers.
+
+Scientists working in the field know this fact by heart and funding organisations most certainly do too. Grant funding models (at least the ones I've recently come across in the EU) are now on the trajectory of encouraging collaboration between international organisations to deliver larger projects. Perhaps the quicker that society can dispel the notion of ['the lone genius'](https://www.nobelprize.org/martin-chalfie-npii-canada/), the more open and accessible the field will seem to the general public.
+
+![A mock biochemistry lab in the Nobel prize museum](/files/nobel/lab.jpeg)
+*Extremely neat lab*, apart from the latex gloves
+
+Additionally, some of the best museums nowadays are interesting because they spark discussion about controversies. They offer a platform for people to view things through a modern lens (like critical commentaries), and they have a route for normal people who have just wandered into the museum to engage with the material and express their thoughts (think a wall of Post-it notes).
+
+A search online about the Nobel Prize reveals [criticisms](https://en.wikipedia.org/wiki/Nobel_Prize_controversies) of the selection process, the apparent gender/ racial biases in the prizes, some ethically controversial/  choices for peace prize recipients. No reward to other fields of science e.g. ecology, climate science, computer science, mathematics. Obviously, you would not necessarily want to invite criticism in a museum dedicated to celebrate your benefactor's legacy in generously dedicating his wealth to rewarding academic achievement. Though I would argue that encouraging discussion has the power of building deeper understanding into issues-- here namely the challenge of keeping Nobel's will up to the times for a cause as global as science. Presenting a multi-dimensioned viewpoint of the prize would have made for a better experience in my view.
+
+What resonated with me was an area playing [clips of interviews](https://www.nobelprize.org/prizes/lists/video-interviews-physics/) of current awardees. It was seeing them talk about what made them passionate about their job and hearing them describe their research that made everything click together. Inspiringly, behind every paper, every theory, every experiment and every equation are humans who love their field. No doubt that these are the people who Nobel wanted to reward.
