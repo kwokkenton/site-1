@@ -72,7 +72,11 @@ author:
   youtube          :
 
 # Google analytics
-google_site_verification: "G-QW0H638SDW"
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-QW0H638SDW"
+    anonymize_ip: false # default
 
 # Output portfolio
 collections:
