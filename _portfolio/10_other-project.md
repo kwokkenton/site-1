@@ -22,14 +22,14 @@ sidebar:
 
 | Project                                                                                                               | Skills                                                                              | Year |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---- |
-| [BSc Project: Phased Array Simulations for All-optical Diagnostic Ultrasound](https://github.com/kwokkenton/dormouse) | k-Wave software on MATLAB                                                           | 2022 |
+| [BSc Project: Phased Array Simulations for All-optical Diagnostic Ultrasound](https://github.com/kwokkenton/dormouse) | Modelling and simulation formulation. Using k-Wave software on MATLAB.                                                           | 2022 |
 | A Log-likelihood Fit for extracting Neutrino Oscillation Parameters                                                   | Optimisation methods for parameter estimation (Gradient descent, Newton's method)   | 2021 |
-| Hard sphere Thermodynamics simulation using Object Oriented Programming                                               | Built simulation engine in Python to test van der Waals equation in thermodynamics. | 2020 |  |
+| Hard sphere Thermodynamics simulation using Object Oriented Programming                                               | Built simulation engine in Python to test van der Waals equation in thermodynamics. | 2020   |
 
 ## Miscellaneous
 
-
 | Project                                                                                                                                                                      | Skills                                                                                               | Year |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- |
-| Utilising Machine Learning in Radiotherapy: Potential Benefits to Patient Treatment Planning                                                                                 | Literature review of existing and commercially available organ contouring software for radiotherapy. | 2022 |
+| Angular Analysis of B0 → K ∗0μ+μ− Decay in the Search for Beyond Standard Model Physics| Worked in a team of 25 physicists. Presented work on using ML to filter out background particle decays.| 2022|
+| [Utilising Machine Learning in Radiotherapy: Potential Benefits to Patient Treatment Planning](https://drive.google.com/file/d/17smk3R_nWPHae7jb4ChTcdiPWKEB7YXr/view?usp=sharing)                                                                                 | Literature review of existing and commercially available organ contouring software for radiotherapy, as well as computer vision metrics for evaluating them. | 2022 |
 | Physics Informed Neural Networks forecasting of the geomagnetic index and Accurate Spatiotemporal Prediction of Thermospheric Neutral Density for Low Earth Orbit Satellites | Writing a mock grant proposal for research interfaces module                                         | 2022 |

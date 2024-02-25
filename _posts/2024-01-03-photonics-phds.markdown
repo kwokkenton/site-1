@@ -10,41 +10,46 @@ I have curated this list of academic groups/ institutions related to biophotonic
 
 My focus has mainly been in the UK and mainland Europe but I’ve also included some locations in the US. This list is far from exhaustive and some are more detailled than others but it just reflects the information I gathered during my search.
 
-![](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRI7nmvHs5kZ2LMZO1DwE8MEdDtlEfyN8AgXobbiGhjfE4z2DsG08sFblUCNeFrPDq6mtUAjPijGKJ2mvo0FiDsNrO68g=s1600 "Microscope showing blood cells")
-
+![Microscope showing blood cells](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRsGCIxf0ZD3PJyWWNnNbxMEElyO3hv1CC-YfCLpb4BMVWSHBuq3o7Jo-4CFLH1H_ZYGiSLLiE66sFGoMpj7F_2EOu4-Q=s1600)
 
 ## UK
 
 ### [Imperial College Photonics Group, London](https://www.imperial.ac.uk/photonics/research/biophotonics/)
 
-- Group is led by several academics in photonics encompassing many bioimaging techniques with frequent collaborations with the Crick, the ICR and in Europe. 
+- Group is led by several academics in photonics encompassing many bioimaging techniques with frequent collaborations with the Crick, the ICR and in Europe.
 - People: Professors Paul French, Chris Dunsby, Mark Neil
-- Topics: superresolution microscopy, quantitative phase imaging, light sheet microscopy, structured light microscopy 
+- Topics: superresolution microscopy, quantitative phase imaging, light sheet microscopy, structured light microscopy
 
 ### [Institute of Cancer Research, London](https://www.icr.ac.uk/studying-and-training/phds-for-science-graduates/phd-studentship-projects)
+
 - Large research center with many interdisciplinary projects. Physics based projects tend to be rarer than computer science based ones though.
 - People: Uwe Oelfke
-- Topics: Radiotherapy modelling, imaging (MRI, Xray, ultrasound), superresolution microscopy 
+- Topics: Radiotherapy modelling, imaging (MRI, Xray, ultrasound), superresolution microscopy
 
 ### [Laser Analytics Group, Cambridge University](https://laser.ceb.cam.ac.uk/)
+
 - People: Clemens Kaminski
 - Topics: Advanced microscopy techniques e.g. dSTORM, SIM, FLIM. Microscopy usually linked with neuroscience research. Focus seems to be on computational microscopy.
 - Funding can be with the CDT in connected electronics/ photonics or CDT advanced sensor technologies 
 
 
 ### [Booth Lab, Oxford University](https://eng.ox.ac.uk/people/martin-booth/)
+
 - Topics: Adaptive optics e.g. with deformable mirrors, Biomedical microscopy, Superresolution microscopy
 
 ### [UCL i4health CDT, University College London](https://www.ucl.ac.uk/intelligent-imaging-healthcare/epsrc-centre-doctoral-training-intelligent-integrated-imaging-healthcare-i4health)
+
 - Possibility to choose funded Named projects or put in an open application. Strong applied focus with close collaboration with UCLH and the hospital trust
 - People: Professors Simon Arridge, Peter Munro, 
 - Broad focus: medical imaging and devices, data science and AI, robotics, and human-centred design
 - Specific Topics: Lots of Medical imaging (MRI, PET, NIRS, Photoacoustic imaging), computer vision & machine learning for segmentation, modality fusion, outcome prediction, 
 
 ### [Francis Crick Institute, London](https://www.crick.ac.uk/careers-study/students/phd-students/phd-student-recruitment)
+
 - Biophysics, signalling modelling with AI. CryoEM reaearch . Optical microscopy is rare.
 
 ## Others
+
 - Kings College London/ Imperial College London CDT for [Smart Medical Imaging](https://www.imagingcdt.com/), strictly speaking not much biophotonics, only photoacoustic imaging
 - [McConnell Lab](https://www.centreforbiophotonics.com/people) at the University of Strathclyde, Glasgow
 - St Andrews, especially the [Optical Manipulation Group](https://opticalmanipulationgroup.wp.st-andrews.ac.uk/) led by Prof Kishan Dholakia who develops a range of biophotonics techniques
