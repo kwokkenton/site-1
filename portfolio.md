@@ -8,4 +8,4 @@ classes: wide
 ---
 
 
-This is a feature of some academic and personal projects I have done! Still work in progress...
+This is a feature of some academic and personal projects I have done! Still work in progress.

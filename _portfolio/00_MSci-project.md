@@ -9,6 +9,8 @@ sidebar:
     image: https://pxl-imperialacuk.terminalfour.net/fit-in/448x293/prod01/channel_2/media/migration/staff/Blue-on-white--tojpeg_1495792235526_x4.jpg
     image_alt: "Imperial College London logo"
     text: "Student researcher"
+  - title: "Timeframe"
+  - text: "Sep 2022-Apr 2023"
   - title: "Supervisor"
     text: "[Dr James McGinty](https://www.imperial.ac.uk/people/james.mcginty) at Imperial College London"
   - title: "Responsibilities"

@@ -12,6 +12,7 @@ Hiya, my name is Kenton! I am an experimental imaging physicist and data scienti
 This is my website where I post about some of my previous work, projects and also some bits of research I've done on specific topics that might be useful!
 
 # A bit about me
+
 I graduated with an MSci in Physics from [Imperial College London](https://www.imperial.ac.uk/) and am currently working at [Living Optics](https://www.livingoptics.com/), a UK based startup aiming to democratise hyperspectral imaging. My academic interests are in flavours of biophotonics, computational imaging and machine learning.
 
 My CV is also available for a summary of my skills and experiences.
