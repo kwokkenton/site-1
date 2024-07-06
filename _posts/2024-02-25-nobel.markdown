@@ -6,7 +6,7 @@ read_time: true
 categories: museum
 ---
 
-## A Scientist's view of the Nobel Museum, Stockholm
+## To make the Nobel museum more noble
 
 The [Nobel Prize](https://www.nobelprize.org/) is currently the de-facto Oscars of the academic world, celebrating academic superstars. [Alfred Nobel](https://en.wikipedia.org/wiki/Alfred_Nobel) was the Swedish dynamite inventor and industrialist who made the world-changing decision of donating his fortunes to the world. The Prize is split into (Physical sciences, Chemistry, Medicine, Literary works, Peace) for those who have "contributed to the greatest benefit to humankind." The winner(s) of the prize (which can be split into at most 3 chunks), gets around £830k, a diploma, and the famous metal disc like that shown below.
 

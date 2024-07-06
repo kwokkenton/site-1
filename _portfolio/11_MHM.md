@@ -3,10 +3,10 @@ title: "Data Engineering and Analytics at ManholeMetrics"
 excerpt: "Data pipeline scoping, design and implementation in cloud."
 header:
   
-  teaser: https://lh3.googleusercontent.com/drive-viewer/AEYmBYSLBZT7ymYwfXzkoj_VcAwDKbQAx1wBMhJAD8-m6aUmalZAwj1fRkKiKj9t7MF8SUnyeLrFgX804o-aP-Z1iOXdVG605w=s1600
+  teaser: files/portfolio/MHM.png
 sidebar:
   - title: "Role"
-    image: https://lh3.googleusercontent.com/drive-viewer/AEYmBYSLBZT7ymYwfXzkoj_VcAwDKbQAx1wBMhJAD8-m6aUmalZAwj1fRkKiKj9t7MF8SUnyeLrFgX804o-aP-Z1iOXdVG605w=s1600
+    image: files/portfolio/MHM.png
     image_alt: "logo"
     text: "Data Engineer and Analyst"
   - title: "Responsibilities"

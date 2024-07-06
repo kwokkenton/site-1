@@ -2,8 +2,8 @@
 title: "MSci work- volumetric bioimaging using OPT"
 excerpt: "Doing benchtop optics, programming and analysis for biology!"
 header:
-  image: https://lh3.googleusercontent.com/drive-viewer/AEYmBYRaNagNID4hmFyuf1ZbzthgD2D71Jpqi5FJ5H1GZVWlNKGPyQzJf9uIm3pvqzPZUpqJ6n7C7L6nYUaRsuxagmtcEKWT4Q=s1600
-  teaser: https://lh3.googleusercontent.com/drive-viewer/AEYmBYRaNagNID4hmFyuf1ZbzthgD2D71Jpqi5FJ5H1GZVWlNKGPyQzJf9uIm3pvqzPZUpqJ6n7C7L6nYUaRsuxagmtcEKWT4Q=s1600
+  image: files/opt/embryo.jpg
+  teaser: files/opt/embryo.jpg
 sidebar:
   - title: "Role"
     image: https://pxl-imperialacuk.terminalfour.net/fit-in/448x293/prod01/channel_2/media/migration/staff/Blue-on-white--tojpeg_1495792235526_x4.jpg
