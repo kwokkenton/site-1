@@ -2,7 +2,7 @@
 title: "Other Physics projects"
 excerpt: "Shorter lab/ research projects throughout my degree."
 header:
-
+  teaser: 'https://images.unsplash.com/photo-1612521564730-62fc7691cd85?q=80&w=2912&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
 sidebar:
   - title: "Role"
     image_alt: "Imperial College London logo"

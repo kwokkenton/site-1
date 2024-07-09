@@ -5,9 +5,9 @@ classes: wide
 author_profile: true
 ---
 
-![alt text](/files/neon.jpg "Title")
+![alt text](/files/neon.jpg "A neon sign in Prince Edward, Hong Kong")
 
-Hiya, my name is Kenton! I am an experimental imaging physicist and data scientist. Nice to meet you!
+Hiya, my name is Kenton Kwok! I am an experimental imaging physicist and data scientist. Nice to meet you!
 
 This is my website where I post about some of my previous work, projects and also some bits of research I've done on specific topics that might be useful!
 

@@ -11,6 +11,8 @@ sidebar:
     text: "Data Engineer and Analyst"
   - title: "Responsibilities"
     text: "Automation and deployment."
+
+mathjax: true
 ---
 ## Who are Manhole Metrics?
 
