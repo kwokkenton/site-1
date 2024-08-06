@@ -3,5 +3,7 @@ main:
     url: /portfolio/
   - title: "blog"
     url: /blog/
+  - title: "resources"
+    url: /resources/
   - title: "photography"
     url: https://photography.kentonk.com
