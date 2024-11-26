@@ -13,7 +13,11 @@ This is my website where I post about some of my previous work, projects and als
 
 # A bit about me
 
-I graduated with an MSci in Physics from [Imperial College London](https://www.imperial.ac.uk/) and am currently working at [Living Optics](https://www.livingoptics.com/), a UK based startup aiming to democratise hyperspectral imaging. My academic interests are in flavours of biophotonics, computational imaging and machine learning. My goal is to make a healthier, smarter, more equitable and happier world using technology.
+I am currently working at [Living Optics](https://www.livingoptics.com/), a UK based startup aiming to democratise hyperspectral imaging. As an Applications Engineer, I am a customer-facing developer/ scientist who aims to write code and help 
+
+Previously, I graduated with an MSci in Physics from [Imperial College London](https://www.imperial.ac.uk/), where I worked within the biophotonics group and developed a microscope that allowed you to visualise nearly-transparent tissues in 3D.
+
+My goal is to make a healthier, smarter, more equitable and happier world using technology.
 
 My CV is also available for a summary of my skills and experiences.
 

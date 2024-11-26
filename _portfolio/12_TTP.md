@@ -22,9 +22,10 @@ sidebar:
 
 ## What did I do?
 
-I was one of the 20 interns directly embedded within the company, specifically within the life sciences department. One of the strengths of TTP was that people of different disciplines were colacated and actively sought collaboration with eachother. This culture enabled me to learn a lot about different aspects of the business.
+I was one of the 20 interns directly embedded within the company, specifically within the life sciences department. One of the strengths of TTP was that people of different disciplines were colocated and actively sought collaboration with each other. This culture enabled me to learn a lot about different aspects of the business.
 
 Scientifically, I Worked on 3 interdisciplinary projects and presented findings in biweekly meetings to clients
+
 - The development of a high dynamic range imaging procedure for a biological assay as a client work package
 - The creation of a camera calibration pipeline with OpenCV which was used in manufacturing a [medical gamma camera](https://www.ttp.com/case-studies/serac-imaging-systems-compact-gamma-optical-camera/)
 - Characterisation and implementation of a digital refocusing algorithm for a low-cost lens-free digital holographic microscope
