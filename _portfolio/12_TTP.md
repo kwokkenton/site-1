@@ -2,7 +2,7 @@
 title: "Internship: TTP plc"
 excerpt: "A summer at a product development consultancy in Cambridge"
 header:
-    teaser: files/portfolio/ttp_logo.png
+  teaser: files/portfolio/ttp_logo.png
 sidebar:
   - title: "Role"
     image: files/portfolio/ttp-client-logo-ttp.png
@@ -10,7 +10,6 @@ sidebar:
     text: "Summer Intern"
   - title: "Timeframe"
     text: "Jul-Sep 2022"
-
 ---
 
 ## Who are TTP?
@@ -18,7 +17,7 @@ sidebar:
 [TTP](https://www.ttp.com/) is an independent technology company where scientists, engineers and designers collaborate to invent, design and develop new products and technologies. The company is interdisciplinary group and work in healthcare, deep tech and life sciences to bring strong commercial value to clients.
 
 ![Labcoat](/files/portfolio/ttp_labcoat.jpg " ")
-*My own lab coat!*
+_My own lab coat!_
 
 ## What did I do?
 
@@ -32,7 +31,7 @@ Scientifically, I Worked on 3 interdisciplinary projects and presented findings 
 
 ![Holographic reconstructions](/files/portfolio/ttp_holographic.png " ")
 
-*Reconstructions of a resolution target*
+_Reconstructions of a resolution target_
 
 ## Things learnt
 

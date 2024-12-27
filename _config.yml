@@ -84,6 +84,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _portfolio

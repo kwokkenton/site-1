@@ -15,7 +15,6 @@ sidebar:
     text: "[Dr James McGinty](https://www.imperial.ac.uk/people/james.mcginty) at Imperial College London"
   - title: "Responsibilities"
     text: "Driving and delivering the project."
-
 ---
 
 ## Our Imperial MSci project
@@ -36,10 +35,10 @@ Different optical techniques are suited for different applications, for example 
 
 Our project was open-ended from the start. In collaboration with our project supervisor, we had to choose ambitious goals that were possible within our timeframe. We completed the following
 
-* Built, aligned and tested an OPT system that works in fluorescence and transmission
-* Optically characterised the system's depth of field and spatially varying modulation transfer function (MTF)
-* Applied our system to image phantoms for testing and also a biologically relevant mouse-embryo
-* Designed and tested a novel integration of LED microscopy with OPT
+- Built, aligned and tested an OPT system that works in fluorescence and transmission
+- Optically characterised the system's depth of field and spatially varying modulation transfer function (MTF)
+- Applied our system to image phantoms for testing and also a biologically relevant mouse-embryo
+- Designed and tested a novel integration of LED microscopy with OPT
 
 We managed to develop a reliable alignment protocol that ensured the rotation axis of the sample was perpendicular to the optical axis.
 
