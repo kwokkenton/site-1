@@ -1,0 +1,121 @@
+---
+layout: single
+title:  "Protons, Accelerators and Cancerous Tumours"
+date:   2021-04-14 16:00:55 +0100
+read_time: true
+categories: physics
+mathjax: true
+---
+
+This piece was originally published in the student-led journal the Imperial Physics Review.
+
+> Putting your head inside a particle collider seems generally like a bad idea. Take the Russian physicist who put his head in a proton accelerator by accident as a tale for caution [1]. However, it is amazing that charged particles such as protons can also be used to cure ‘the Emperor of All Maladies’—Cancer.
+
+## Curing Cancer
+
+As humans collectively live longer, almost half of us who live in the United Kingdom will get diagnosed with cancer in our lifetimes. The good news is that cancer can be treated in many ways. The most direct way is by surgery—cutting away the tumour early on so it doesn’t spread via a process called metastasis. Chemotherapy and using radiation therapy are usually next in line.
+
+Proton Beam therapy is a type of hadron therapy [2]. It uses subatomic matter particles to treat disease rather than the more well-known use of X-rays and gamma rays, which is called radiotherapy. This is used when the tumour is relatively localised so a good, focused dose of energy can quite literally destroy it.
+
+Only “about 1% of radiation therapy patients are treated with protons now,” however this number is growing rapidly [3]. The UK has two facilities—one in Manchester and one in London at UCL Hospital [4]. 
+
+## Why even use Protons?
+Proton therapy was first proposed as a treatment method in 1946 and the first patient was treated in Berkeley, California in 1954 [2]. 
+
+Radiation is quite a double-edged sword—it irradiates healthy tissue and tumours in the same way and so can cause damage to both. This is of particular relevance towards children especially—as they are still growing, or where tumours are near critical structures [5]. This means that irradiating healthy tissue would have catastrophic effects. Even if you have an accurate beam of radiation that can be directed with precision, your beam still needs to pass through healthy tissue if the tumour is not on the surface. Remarkably, the fact that photons and protons interact differently with matter can be exploited for cancer treatment. 
+
+Radiation is quite a double-edged sword—it irradiates healthy tissue and tumours in the same way and so can cause damage to both.
+
+Photons are uncharged and their intensity gets exponentially attenuated by matter—there is a high entrance dose. 
+
+On the other hand, proton beams get degraded in energy with distance travelled via different processes, because of its charged nature
+	- Inelastic Coulomb scattering with atomic electrons
+	- Elastic Coulomb scattering with atomic nuclei
+	- Non-elastic nuclear reactions with atomic nuclei
+	- Bremsstrahlung interactions with atomic nuclei
+
+The Bethe-Bloch equation describes the mean energy loss per distance travelled of energetic charged particles in matter [6]. We can show in one dimension, for non-relativistic particles that 
+
+$$\frac{dE}{dx} \propto v^{-2}$$
+
+which means that most energy is deposited at the end of the particle’s journey.
+
+Figure 1: Illustration of the difference Bragg curves between photons and protons, with human tomographic image slice for scale. Photons induce an extra unwanted dose to healthy tissue [3]
+
+If we plot the Bragg curve (energy absorbed against distance), we will see that not much energy is deposited at the start of the proton’s journey, which makes protons ideal for evading healthy tissue! For calculation purposes, Bortfield has developed an approximate analytical model of the Bragg curve, which corresponds to experimental data well [3]. 
+
+The range of protons in matter varies with input energy- varying your energies from 11MeV to 220 MeV corresponds to a range from approximately 1mm to 30cm. 
+ 
+Figure 2: Diagram illustrating the proton energy required to reach different tumour depths in humans [3]
+
+## How is it delivered?
+Taking the set up in the Christie at Manchester as an example, the key components are as follows
+- Cyclotron
+- Energy selection system
+- Beam Line
+- Quadrupole Magnet
+- Dipole electromagnet
+
+Our main focus will be on the production of the protons and how it is focused.
+
+## What is a Cyclotron?
+The Cyclotron was invented in 1930 by Ernest O. Lawrence and he gained the 1939 Nobel Prize for it [8]. It is the predecessor to the synchrotron, which is used in the Large Hadron Collider (LHC) today. For reference, the LHC produces particles up to TeV of energy, but cyclotrons operate in the range of MeV. To obtain protons, electrons are stripped from hydrogen gas using a strong electric field, but how does the cyclotron speed them up? The answer is using a magnetic field and an applied electromagnetic signal. 
+ 
+Figure 3: Diagram of a cyclotron, showing the two dees and the fields [9]
+
+The cyclotron is basically a pillbox halved into two D-shaped ‘dees’, with an applied magnetic field from top to bottom [9]. We know from the Lorentz Force Law 
+
+$$F=qv \times B$$
+
+that a centripetal force will constrain the moving protons in a circle. We can derive that the frequency of the particle, called the cyclotron frequency, is
+
+$$\omega_\text{cyclotron}  =  qB/2m$$
+
+and is independent of the radius. To increase the speed of the particle, hence its energy, we need to apply an electric field. If the electric field were static, however, the circularly moving proton would just be accelerated, then subsequently decelerated. We see that if a field of the cyclotron frequency is applied, it reverses just at the right time to keep the proton accelerating in the correct direction [10]. Eventually, the proton will exit with a maximum energy of
+
+$$E =  \frac{q^2 B^2 R^2}{2m} $$
+
+However, things are not as straightforward as this and as we demand higher proton energies and relativistic effects need to be considered. To keep our machine working, this requires imposing a radially varying magnetic field to create an isochronous cyclotron [11].
+
+Cyclotrons are not only used for proton therapy. The high energy protons it produces can also be used to make other radioisotopes, which can be used to make tracers for Positron Emission Tomography (PET) [12]. As short-lifetime radioisotopes are desired, they are usually produced in-house and hence you might be living closer to a particle accelerator than you think! There are close to 1500 medical cyclotrons worldwide [13].
+
+Scanning and image guiding 
+
+After the protons leave the cyclotron, they might be degraded in energy by the Energy Selection System depending on the depth of the tumour [4]. Then, the beam is directed to the treatment room and is focused by a series of magnets until it reaches the nozzle. As the proton beam width is extremely narrow ~2 mm, this is commonly called pencil beam scanning [3]. Essentially, if you know where the tumour is, then you can ‘shade it in’ and eliminate it. 
+
+Imaging can typically be done simultaneously to reduce the geometrical uncertainties of the dose—especially if the insides of the patient are moving.
+
+## Where can Physics take this?
+
+Proton beam therapy is already reality—thanks to the decades of combined effort by scientists, engineers, and physicians. But where can physics take it next? Here are a few avenues, according to the research done at the University of Manchester and UCL [14] [15]
+
+- The biophysical aspect: modelling how biological molecules interact with the protons specifically to understand it more thoroughly. 
+- Dose calculation aspect: using Monte Carlo simulations to calculate the dosage into the patient for better treatment planning
+- Quality assurance aspect: better instrumentation for dosimetry measurements
+- Accelerator aspect: creating more efficient particle accelerators for this specific purpose
+- Pre-treatment Imaging: using protons to image inside the body via proton radiography
+
+What I enjoy about physics the most is how, discovery by discovery, scientific knowledge can then be used by people in all fields to improve the livelihoods of humankind. Medical physics is one interesting interdisciplinary manifestation of this —hopefully this article has shed some light on this topic!
+
+### Sources
+
+1. Frohlich, Joel. "This is What Happened to the Scientist Who Stuck His Head Inside a Particle Accelerator." Quartz, 21 Apr. 2017, qz.com/964065/this-is-what-happened-to-the-scientist-who-stuck-his-head-inside-a-particle-accelerator/.
+2. "What is Hadron Therapy?" THE EUROPEAN NETWORK FOR LIGHT ION HADRON THERAPY, enlight.web.cern.ch/what-is-hadron-therapy.
+3. Paganetti, Harald. Proton Beam Therapy. 2017.
+4. "How Proton Beam Therapy is Delivered." The Christie NHS Foundation Trust, Experts in Cancer Care, www.christie.nhs.uk/patients-and-visitors/services/protons/what-is-proton-beam-therapy/how-proton-beam-therapy-is-delivered.
+5. "Proton Beam Therapy." British Journal of Cancer, 27 Sept. 2005, doi.org/10.1038/sj.bjc.6602754.
+6. "NSRL User Guide." Brookhaven National Laboratory — a Passion for Discovery, www.bnl.gov/nsrl/userguide/bragg-curves-and-peaks.php.
+7.  Newhauser, Wayne D., and Rui Zhang. "The Physics of Proton Therapy." 24 Mar. 2015, iopscience.iop.org/article/10.1088/0031-9155/60/8/R155.
+8. "The Nobel Prize in Physics 1939." NobelPrize.org, www.nobelprize.org/prizes/physics/1939/lawrence/biographical/.
+9. Nave, R. "Cyclotron." hyperphysics.phy-astr.gsu.edu/hbase/magnetic/cyclot.html.
+10. Shinohara, Eric. "Module 3: Equipment for Proton Therapy Delivery , OncoLink." Oncolink, 2016, www.oncolink.org/healthcare-professionals/oncolink-university/proton-therapy-professional-education/oncolink-proton-education-modules/module-3-equipment-for-proton-therapy-delivery.
+11. Antaya, Timothy A. "Lecture 14 Cyclotron Basics." USPAS , U.S. Particle Accelerator School, uspas.fnal.gov/materials/09UNM/Unit_10_Lecture_14_Cyclotron_basics.pdf.
+12. Peach, K., et al. "Accelerator Science in Medical Physics." PubMed Central (PMC), 2011, www.ncbi.nlm.nih.gov/pmc/articles/PMC3473892/.
+13. "MEDraysintell Releases Unique Cyclotron Directory." Imaging Technology News, 3 Oct. 2021, www.itnonline.com/content/medraysintell-releases-unique-cyclotron-directory. 
+14. ["Proton Therapy Research , Cancer , The University of Manchester."](www.bmh.manchester.ac.uk/research/domains/cancer/proton/) Faculty of Biology, Medicine and Health , University of Manchester.
+15. "UCL Proton Therapy." [UCL HEP Group](www.hep.ucl.ac.uk/pbt/).
+
+Other useful information for patients
+
+https://www.cancerresearchuk.org/about-cancer/cancer-in-general/treatment/radiotherapy/external/types/proton-beam-therapy
+https://www.mayoclinic.org/tests-procedures/cancer-treatment/about/pac-20393344
