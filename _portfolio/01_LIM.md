@@ -1,6 +1,6 @@
 ---
 title: "3D Hyperspectral Point clouds: Poster at London Imaging Meeting"
-excerpt: "Photoacoustic modelling and simulations from first-principles"
+excerpt: "Presenting my work in hyperspectral computer vision."
 header:
   image: /files/lim/heading.png
   teaser: /files/lim/conference.png
