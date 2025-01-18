@@ -1,5 +1,5 @@
 ---
-title: "Internship: TTP plc"
+title: "Physicist in Life Science: an internship at TTP"
 excerpt: "A summer at a product development consultancy in Cambridge"
 header:
   teaser: files/portfolio/ttp_logo.png
