@@ -11,6 +11,12 @@ Some resources others may find useful!
 
 ## Books
 
+### General knowledge
+
+- Michael Sandel, the philosophy of justice
+- Guns, Germs and Steel
+- Sapiens
+
 ### Physical sciences
 
 - In search of Schrödinger's cat -- John Gribbin
@@ -27,7 +33,7 @@ Some resources others may find useful!
 - Institute of Cancer Research Undergraduate [Summer Scholarship Scheme](https://www.icr.ac.uk/studying-and-training/undergraduate-summer-scholarship-scheme)
 - Francis Crick institute [Summer Student Training program](https://www.crick.ac.uk/careers-study/students/summer-students)
 
-## Talks
+## Talks and Motivation
 
 [Randy Pausch Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo&t=2s)-- Don't lose the child-like wonder. Follow your dreams but you may find that enabling dreams of others may be more fun! Remember to help and show gratitude to people. The brick walls you run into are for separating those who really want something and those who do not.
 

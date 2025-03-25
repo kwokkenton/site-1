@@ -17,12 +17,6 @@ Looking good!
 
 ![Hello](/files/photography/portrait/kan.jpeg)
 
-## Event photography
-
-[PsychBoost UK](https://www.psychboosthk.com/) sharing session
-
-![Hello](/files/photography/portrait/psychboost-65.jpg)
-
 ![Hello](/files/photography/portrait/oxford_balloon.jpeg)
 
 ![Hello](/files/photography/portrait/florence_violin.jpeg)

@@ -1,5 +1,5 @@
 ---
-title: "WIP: Data science and engineering: is HK facing depopulation?"
+title: "Data science: is HK facing depopulation?"
 excerpt: "Some data dashboarding and plotting to understand a question I had"
 header:
   teaser: https://miro.medium.com/v2/resize:fit:720/format:webp/0*H1MD2lTwgxdPAAaX
@@ -24,6 +24,16 @@ Bloomberg Opinion have looked at proxies such as the withdrawal of money from th
 
 ![Photo by Ryan McManimie on Unsplash](https://miro.medium.com/v2/resize:fit:720/format:webp/0*H1MD2lTwgxdPAAaX)
 
+### Data dashboard
+
+<!-- ![alt text](/files/immigration/dashboard.png) -->
+
+<iframe src="https://kwokkenton-hongkong-immigration-frontend-vwwzsh.streamlit.app/?embed=True" style="width: 100%; height: 800px; border: none;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+[Visit the dashboard here](https://kwokkenton-hongkong-immigration-frontend-vwwzsh.streamlit.app/){: .btn .btn--success target="\_blank"}
+
 ### Data Science Technicalities
 
 The work here is as much a Python exercise on Web-scraping and Data Visualisation as a study on Hong Kong society. Web-scraping is basically retrieving data from websites, specifically their HTML code. I wish to point out that some others have done a [similar project](https://webb-site.com/dbpub/hkpax.asp) but I wish to go into more depth.
@@ -33,12 +43,6 @@ The work here is as much a Python exercise on Web-scraping and Data Visualisatio
 _Screenshot of the Immigration Department’s website, showing an example table of data_
 
 I scraped data from the Hong Kong Immigration Department’s website, where they provide daily updates on the number of passengers who have entered and left different ports in the city. Data is provided by the HK Government and the relevant rights are theirs. This was done by finding all relevant cells with the <td> tag. Afterwards, I used more features from Pandas to wrangle the data into a more appropriate (long) format suitable for analysis. I stored this in a cloud-based PostgreSQL database (from Neon), which has a generous free tier.
-
-### Data dashboard
-
-![alt text](/files/immigration/dashboard.png)
-
-[Visit the dashboard here](https://kwokkenton-hongkong-immigration-frontend-vwwzsh.streamlit.app/){: .btn .btn--success target="\_blank"}
 
 ## Skills developed
 
