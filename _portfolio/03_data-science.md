@@ -1,6 +1,6 @@
 ---
 title: "Data science: is HK facing depopulation?"
-excerpt: "Some data dashboarding and plotting to understand a question I had"
+excerpt: "A full stack data science app to understand a question I had."
 header:
   teaser: https://miro.medium.com/v2/resize:fit:720/format:webp/0*H1MD2lTwgxdPAAaX
 sidebar:
@@ -28,11 +28,11 @@ Bloomberg Opinion have looked at proxies such as the withdrawal of money from th
 
 <!-- ![alt text](/files/immigration/dashboard.png) -->
 
-<iframe src="https://kwokkenton-hongkong-immigration-frontend-vwwzsh.streamlit.app/?embed=True" style="width: 100%; height: 800px; border: none;">
+<iframe src="https://hk-immigration2.streamlit.app/?embed=True" style="width: 100%; height: 800px; border: none;">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
-[Visit the dashboard here](https://kwokkenton-hongkong-immigration-frontend-vwwzsh.streamlit.app/){: .btn .btn--success target="\_blank"}
+[Visit the dashboard here](https://hk-immigration2.streamlit.app/){: .btn .btn--success target="\_blank"}
 
 ### Data Science Technicalities
 
@@ -44,6 +44,12 @@ _Screenshot of the Immigration Department’s website, showing an example table 
 
 I scraped data from the Hong Kong Immigration Department’s website, where they provide daily updates on the number of passengers who have entered and left different ports in the city. Data is provided by the HK Government and the relevant rights are theirs. This was done by finding all relevant cells with the <td> tag. Afterwards, I used more features from Pandas to wrangle the data into a more appropriate (long) format suitable for analysis. I stored this in a cloud-based PostgreSQL database (from Neon), which has a generous free tier.
 
+I chose this schema below which could be easily ported to pandas. In hindsight I should have used something that was more long-form.
+
+![alt text](/files/portfolio/database_schema.png)
+
+I'd highly recommend Neon as a service!
+
 ## Skills developed
 
-**Programming**: Selenium, SQL, PostgreSQL, Streamlit
+**Programming**: Selenium, SQL, PostgreSQL database, Streamlit
