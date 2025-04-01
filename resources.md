@@ -35,9 +35,16 @@ Some resources others may find useful!
 
 ## Talks and Motivation
 
-[Randy Pausch Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo&t=2s)-- Don't lose the child-like wonder. Follow your dreams but you may find that enabling dreams of others may be more fun! Remember to help and show gratitude to people. The brick walls you run into are for separating those who really want something and those who do not.
+For the 16 year old me
 
-[Graham Weaver Last Lecture]()-- what would you do if you couldn't fail? Follow your energy and go all into that.
+- [What you'll wish you'd known](https://paulgraham.com/hs.html) - Paul Graham: essay on school and where to use your energy (from an American perspective)
+- [How to do what you love](https://paulgraham.com/love.html)- Paul Graham: essay on adults, careers, love, fun and work.
+
+For the 20 year old me
+
+- [Randy Pausch Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo&t=2s)-- Don't lose the child-like wonder. Follow your dreams but you may find that enabling dreams of others may be more fun! Remember to help and show gratitude to people. The brick walls you run into are for separating those who really want something and those who do not.
+
+- [Graham Weaver Last Lecture]()-- what would you do if you couldn't fail? Follow your energy and go all into that.
 
 ## Quotes
 
