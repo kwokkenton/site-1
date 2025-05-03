@@ -1,13 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
-**/.DS_Store
-./.DS_Store
+.DS_Store
+**/.DS_Store  
+
 files/deutsche/
-.DS_Store
-files/.DS_Store
-*.DS_Store*
-.DS_Store
-files/.DS_Store
-.DS_Store
-files/.DS_Store
+
