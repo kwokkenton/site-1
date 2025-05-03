@@ -1,20 +1,22 @@
 ---
 layout: single
-title: "Backpropagation"
+title: "Backpropagation of the batch norm layer"
 date: 2025-04-01 12:00:00 +0000
-excerpt: some notes on backpropagation, explained by a physicist
+excerpt: some notes on backpropagating through the batch norm layer, explained by a physicist
 read_time: true
 categories: thoughts
 mathjax: true
 ---
 
+> Assignment 2 of Stanford's [CS231n](https://cs231n.github.io/) took me a while to wrap my head round. These are some notes so that I remember.
+
 ## Backpropagation
 
 A gradient estimation method using reverse mode differentiation!
 
-### Batch Norm
+In learning algorithms, the gradient we most often require is the gradient of the cost function with respect to the parameters, $$\nabla_W L(W)$$ where $$W$$ are the weights and $L$ is the scalar loss function.
 
-Assignment 2 of Stanford's [CS231n](https://cs231n.github.io/) took me a while to wrap my head round. These are some notes so that I remember.
+### Batch Norm
 
 ![Batch Norm Algorithm](/files/blog/backprop/image.png)
 _Algorithm from the original paper_

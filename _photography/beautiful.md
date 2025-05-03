@@ -1,18 +1,18 @@
 ---
 layout: single
 title: "Beautiful things"
-excerpt: "Snapshots of migration"
+excerpt: "A scrapbook of nice things to look at"
 
 header:
-  teaser: /files/photography/chinatown/image-4.png
+  teaser: /files/photography/beautiful/tree.jpeg
 
-date: 2021-04-14 16:00:55 +0100
+date: 2025-04-01 16:00:55 +0100
 ---
 
 ## Nature
 
 ![alt text](/files/photography/beautiful/tree.jpeg)
-_A tree_
+_A tree, probably Japanese maple_
 
 ![alt text](/files/photography/beautiful/canal.jpeg)
 _Grand Union Canal_
