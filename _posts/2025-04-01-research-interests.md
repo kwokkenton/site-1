@@ -56,3 +56,4 @@ Meetings
 - computational biophotonics: the joint design of optics and algorithms to get the result you want. Applications in cell microscopy and neuroscience. See Laura Waller, Na Ji.
 - the information content in hyperspectral imaging.
 - medical imaging: see Daniel Rueckert
+- Physics informed machine learning
