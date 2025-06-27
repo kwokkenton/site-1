@@ -26,9 +26,11 @@ This was because
 
 Deliberate practice is important for improving at anything for beginners. So, I made a web/ mobile application for keeping track of Salsa practices! This was also a good opportunity for me to learn some web/ mobile development.
 
-[Check out the app here!](#link){: .btn .btn--success}
+[Check out the app here!](www.salsaa.app){: .btn .btn--success}
 
-The current application is made using a React frontend, a FastAPI backend and
+The current application is made using a React frontend, a FastAPI backend and Firebase as the database.
+
+![alt text](/files/salsa/architecture.png)
 
 ## Features
 
