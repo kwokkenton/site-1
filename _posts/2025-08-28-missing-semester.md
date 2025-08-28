@@ -5,15 +5,19 @@ date: 2025-08-28 12:00:00 +0000
 read_time: true
 categories: science
 mathjax: true
+# header:
+#   image: files/circus.png
 ---
+
+![](/files/circus.png)
 
 This article/ series inspired by the [MIT Missing Semester](https://missing.csail.mit.edu/) course lectures, which I thought was oriented much more towards computer scientists and goes through the shell, build processes, remote access etc. These topics are important, but I thought there should be something more oriented towards the types of work scientists like myself do, which largely comprise of signal/ data processing, analysis and its automation. I started making some [reels](https://www.instagram.com/fizzyphys) on my own 'Missing Semester' and this is a longer written form of the same information.
 
 Most scientists now code in the Python programming language, which is a high level language that is now taught in many universities and practically standard in industry.
 
-> Unlike physics/ mathematics, a lot of these are just **tools** that us humans have designed to make things easier/ more convenient.
+> Unlike physics/ mathematics, a lot of these are just **tools** that us humans have **designed/ built** to make things easier/ more convenient.
 
-There's nothing fundamental about any specific programming language or a packager, and these guidelines and best practices may be superceded in the future. It's more important to understand WHY we do this, say for reproducibility, modularity, separation of concerns, hardware independence etc.
+There's nothing fundamental about any specific programming language or a packager, and these guidelines and 'best' practices may be superceded in the future. It's more important to understand WHY we do this, say for reproducibility, modularity, separation of concerns, hardware independence etc.
 
 ## 1. Environments and Conda
 
