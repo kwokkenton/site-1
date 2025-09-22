@@ -46,8 +46,8 @@ repository: kwokkenton/site-1
 author:
   name             : *name
   avatar           : "/files/head.jpg"
-  bio              : "Scientist-engineer, traveller, photographer & science communicator."
-  location         : "Oxford, UK"
+  bio              : "Scientist-engineer, traveller, photographer & science communicator-- cause why not?"
+  location         : "Cambridge, UK"
   email            : "me@kentonk.com"
   bitbucket        :
   codepen          :

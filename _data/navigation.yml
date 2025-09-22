@@ -1,9 +1,9 @@
 main:
-  - title: "my work"
+  - title: "science and engineering portfolio"
     url: /portfolio/
-  - title: "blog"
-    url: /blog/
+  - title: "resources and tips"
+    url: /resources/
   - title: "photography"
     url: /photography/
-  - title: "resources"
-    url: /resources/
+  - title: "blog"
+    url: /blog/
