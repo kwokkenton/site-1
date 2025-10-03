@@ -19,6 +19,8 @@ Most scientists now code in the Python programming language, which is a high lev
 
 There's nothing fundamental about any specific programming language or a packager, and these guidelines and 'best' practices may be superceded in the future. It's more important to understand WHY we do this, say for reproducibility, modularity, separation of concerns, hardware independence etc.
 
+> We will move from setting up your environments to using AI for coding assistance
+
 ## 1. Environments and Conda
 
 Have you ever wondered why there are so many different Pythons on your computer? Each is a different Python **interpreter**, which reads and runs your python file, line by line. Each interpreter has its own **environment**, which gives access to libraries (code that other people have written).
@@ -105,6 +107,20 @@ In this way, I keep prototyping separate from real development—making my code 
 
 More info [here](https://python101.pythonlibrary.org/chapter36_creating_modules_and_packages.html) and [here](https://packaging.python.org/en/latest/overview/) for those who want deeper dives.
 
-## 3. Repository organisation
+## 3. Git vs GitHub
 
-## 4. How to use git
+Don’t make this common mistake—Git and GitHub are not the same thing. So, what’s Git?
+
+Git is the standard version control system for programming projects. It tracks every line of change, lets you roll back if needed, and makes it possible for people to **collaborate**.
+
+> Version control systems track history
+
+Think of a repository as your project, and a commit as a snapshot update. You can branch off, experiment, and later merge changes back into the main branch. And here’s the cool part—you don’t even need the internet. Git lives in a hidden .git folder on your computer.
+
+Now, GitHub is different. It’s an online service built on top of Git—like Google Drive for code. It’s where you upload repositories to share, collaborate, and contribute with others. GitHub is just one of many platforms—others include GitLab and Bitbucket.
+
+If you're working with yourself, I'd recommend setting up your (remote) project on GitHub and then cloning it on your local PC.
+
+## Don't be intimidated by the terminal
+
+## What is a Programming language?
