@@ -19,10 +19,22 @@
 {% endif %}
 
 <!-- This adds LaTeX rendering ability -->
-{% if page.mathjax %}
+<!-- {% if page.mathjax %}
 <script type="text/javascript" async
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
+{% endif %} -->
+
+{% if page.mathjax %}
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 {% endif %}
 
 {% include analytics.html %}
